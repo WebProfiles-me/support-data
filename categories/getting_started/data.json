@@ -1,4 +1,9 @@
 {
   "category": "getting_started",
-  "data": []
+  "data": [
+    {
+      "name": "Getting Started with WebProfiles",
+      "slug": "getting-started-with-webprofiles"
+    }
+  ]
 }
