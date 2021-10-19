@@ -12,15 +12,6 @@ Well, that was easy! Your account is complete :) You should be on the discover p
 
 &nbsp;
 
-## Exploring the Website
-
-This is a short section, basically just look around at what WebProfiles has to offer! Visit user profiles, discover new friends, and much more.
-
-&nbsp;
-![image](https://user-images.githubusercontent.com/45861163/137757597-750b24c6-5f77-40d1-a3a3-d10b2692a7d9.png)
-
-&nbsp;
-
 ## Setting up your Profile
 
 Now it is time to set up your own profile! This may seem scary at first to some, but don't worry, it's easy as 123.
