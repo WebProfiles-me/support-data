@@ -26,7 +26,6 @@ Data for the WebProfiles support center.
 ```json
 {
   "title": "Article Title Here",
-  "author": "Your Name Here (e.g. Joshua M)",
   "date": "ISO date (e.g. 2021-10-17T02:41:19.198Z)"
 }
 ```
